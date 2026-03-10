@@ -40,27 +40,24 @@
 
 **🌱 Currently Exploring**
 <br/><br/>
-Flow Matching
-<br/>Transfer Learning
-<br/>Uneven Terrain Navigation
+Latent Space Flow Matching
+<br/>Motion planning CEM- MPC
+<br/>collosion avoidence
 
 </td>
 <td align="center" width="210">
 
 **🤝 Open to Collaborate**
 <br/><br/>
-Computer Vision Initiatives
-<br/>ML Algorithms
+Motion Planning on drones, mobile robots
 <br/>Cutting-Edge Navigation
 
 </td>
 <td align="center" width="210">
 
-**⚡ Fun Facts**
-<br/><br/>
-My robot navigates rooms
-<br/>better than most humans —
-<br/>& I deadlift more than it weighs 🏋️
+**⚡ Fun Fact About me **
+<br/><br/>I am a reguler gymrat
+<br/>
 
 </td>
 </tr>
