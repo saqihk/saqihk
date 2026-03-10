@@ -86,34 +86,35 @@ Regular Gymrat 💪
 
 </td>
 </tr>
+
 <tr>
 <td><b>📚 Libraries</b></td>
+<td>
 
 ![JAX](https://img.shields.io/badge/JAX-FFB13B?style=flat-square&logo=google&logoColor=white)
 ![Equinox](https://img.shields.io/badge/Equinox-JAX%20Neural%20Networks-4B8BBE?style=flat-square)
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 </td>
 </tr>
+
 <tr>
 <td><b>🤖 Simulation & Robotics</b></td>
 <td>
 
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=flat-square&logoColor=white)
-![RViz](https://img.shields.io/badge/RViz-22314E?style=flat-square&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=flat-square)
+![RViz](https://img.shields.io/badge/RViz-22314E?style=flat-square)
 
 </td>
 </tr>
+
 <tr>
 <td><b>🔧 Tools & Platforms</b></td>
 <td>
@@ -126,16 +127,18 @@ Regular Gymrat 💪
 
 </td>
 </tr>
+
 <tr>
 <td><b>📊 Visualization & Analysis</b></td>
 <td>
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white)
-![PlotJuggler](https://img.shields.io/badge/PlotJuggler-FF6600?style=flat-square&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![PlotJuggler](https://img.shields.io/badge/PlotJuggler-FF6600?style=flat-square)
 
 </td>
 </tr>
+
 <tr>
 <td><b>💻 Operating Systems</b></td>
 <td>
@@ -145,7 +148,10 @@ Regular Gymrat 💪
 
 </td>
 </tr>
+
 </table>
+
+---
 ---
 ## 🎯 Research Interests
 
