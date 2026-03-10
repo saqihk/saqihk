@@ -25,43 +25,24 @@
 
 <div align="center">
 
-<picture>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=0&pause=0&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=720&height=175&lines=╔══════════════════════════════════════════════════════════╗;║+👤+Name++++++++:+Saqi+Hussain+(@saqihk)++++++++++++++++++║;║+🎓+University+:+Pukyong+National+University+🇰🇷++++++++║;║+📍+Location+++:+South+Korea+++++++++++++++++++++++++++++║;║+💼+Role+++++++:+Researcher+%26+Software+Engineer+++++++++║;║+🔭+Mission++++:+Robots+that+see,+think+%26+navigate++++++║;║+🏋️+Hobby+++++++:+Hitting+PRs+in+the+gym+💪+++++++++++++║;╚══════════════════════════════════════════════════════════╝" />
-</picture>
-
 </div>
 
 <br/>
 
-<table align="center">
-<tr>
-<td align="center" width="210">
+## 🧠 About Me
 
-**🌱 Currently Exploring**
-<br/><br/>
-Latent Space Flow Matching
-<br/>Generative Control Policies
-<br/>Collision-Aware Motion Planning
+- 🌱 **Currently Exploring**
+  - Latent Space Flow Matching
+  - Generative Control Policies
+  - Collision-Aware Motion Planning
 
-</td>
-<td align="center" width="210">
+- 🤝 **Open to Collaborate**
+  - Drone & Mobile Robot Navigation
+  - Autonomous Robotics Systems
+  - AI-Driven Motion Planning
 
-**🤝 Open to Collaborate**
-<br/><br/>
-Drone & Mobile Robot Navigation
-<br/>Autonomous Robotics Systems
-<br/>AI-Driven Motion Planning
-
-</td>
-<td align="center" width="210">
-
-**⚡ Fun Fact About Me**
-<br/><br/>
-Regular Gymrat 💪
-
-</td>
-</tr>
-</table>
+- ⚡ **Fun Fact**
+  - Regular gymrat 💪
 
 <div align="center">
 
