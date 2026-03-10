@@ -21,11 +21,8 @@
 
 ---
 
-## 🧠 About Me
-
 <div align="center">
 
-</div>
 
 <br/>
 
