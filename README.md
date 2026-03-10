@@ -119,7 +119,6 @@ Regular Gymrat 💪
 <td><b>🔧 Tools & Platforms</b></td>
 <td>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
@@ -134,7 +133,6 @@ Regular Gymrat 💪
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
-![PlotJuggler](https://img.shields.io/badge/PlotJuggler-FF6600?style=flat-square)
 
 </td>
 </tr>
