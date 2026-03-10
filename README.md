@@ -18,13 +18,62 @@
 
 ## 🧠 About Me
 
-I'm a **Researcher & Software Engineer** at **Pukyong National University, South Korea 🇰🇷**, specializing in the intersection of **AI, Robotics, and Sensing**. I build intelligent systems that help robots understand and navigate the physical world.
+<img align="right" width="280" src="https://github-readme-stats.vercel.app/api/wakatime?username=saqihk&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=63d2ff&text_color=e2eaf4&layout=compact" alt="activity" />
 
-- 🤖 Working with **ROS / ROS2** for robotic middleware and automation
-- 📡 Developing **LiDAR-based perception** systems for real-time object detection
-- 🗺️ Researching **SLAM** and **indoor localization** algorithms
-- 👁️ Applying **computer vision** and **deep learning** to autonomous systems
-- 🌱 Currently pushing boundaries in **sensor fusion** and **edge AI**
+```yaml
+👤  Name     : Saqi Hussain
+🔖  Handle   : @saqihk  (he/him)
+🎓  Uni      : Pukyong National University
+📍  Location : South Korea 🇰🇷
+💼  Role     : Researcher & Software Engineer
+🔭  Mission  : Making robots understand the world
+```
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" /><br/>
+      <sub><b>Robotic OS</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-SLAM-63d2ff?style=for-the-badge&logoColor=white" /><br/>
+      <sub><b>Localization</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-LiDAR-a78bfa?style=for-the-badge&logoColor=white" /><br/>
+      <sub><b>Sensing</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-CV-34d399?style=for-the-badge&logoColor=white" /><br/>
+      <sub><b>Computer Vision</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-AI%2FML-fb923c?style=for-the-badge&logoColor=white" /><br/>
+      <sub><b>Deep Learning</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+> 🚀 *"I build intelligent systems that help robots perceive, localize, and navigate the physical world."*
+
+<details>
+<summary><b>📖 More about me →</b></summary>
+<br/>
+
+| What I do | Details |
+|-----------|---------|
+| 🤖 **Robotics** | Building autonomous systems with ROS / ROS2, motion planning & control |
+| 📡 **LiDAR & Sensing** | 2D/3D pointcloud processing, real-time object detection pipelines |
+| 🗺️ **SLAM** | Indoor mapping, particle filters, simultaneous localization & mapping |
+| 👁️ **Computer Vision** | Object detection, semantic segmentation, depth estimation |
+| 🧠 **Deep Learning** | PyTorch / TensorFlow models, edge AI deployment |
+| 🌱 **Currently Exploring** | Sensor fusion, transformer-based perception, multi-robot systems |
+
+</details>
 
 ---
 
