@@ -184,13 +184,13 @@ Regular Gymrat 💪
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=saqihk&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqihk&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
@@ -199,33 +199,6 @@ Regular Gymrat 💪
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saqihk&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D9FF&line=a78bfa&point=ffffff&area=true)](https://github.com/saqihk)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=saqihk&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=4)](https://github.com/saqihk)
-
-</div>
-
----
-
-## 🤝 Connect & Collaborate
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saqi-hussain-1455b6181)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Follow-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/)
-[![Portfolio](https://img.shields.io/badge/🌐_Website-Visit-00D9FF?style=for-the-badge&labelColor=0d1117)](https://saqi-hussain.web.app/)
-
-<br/>
-
-> 💬 Open to **research collaborations**, **open-source contributions**, and discussions on **Robotics · AI · SLAM**
 
 </div>
 
