@@ -186,7 +186,9 @@ Regular Gymrat 💪
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=saqihk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=a78bfa&text_color=e2eaf4&count_private=true&rank_icon=github" />&nbsp;&nbsp;<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqihk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=e2eaf4&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saqihk&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqihk&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
