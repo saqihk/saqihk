@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&lines=🤖+Building+robots+that+understand+the+world;📡+ROS+%7C+SLAM+%7C+LiDAR+%7C+Sensor+Fusion;👁️+Computer+Vision+%26+Deep+Learning;🗺️+Indoor+Localization+Specialist;🏋️+Researcher+by+day%2C+lifter+by+night)](https://github.com/saqihk)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&lines=🤖+Building+intelligent+robotic+systems;🧠+Generative+AI+for+Robot+Motion+Planning;📡+ROS+%7C+LiDAR+%7C+Autonomous+Navigation;⚡+Latent+Flow+Models+for+Control+Policies;🏋️+Researcher+by+day%2C+lifter+by+night)](https://github.com/saqihk)
 
 </div>
 
