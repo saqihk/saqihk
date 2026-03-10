@@ -32,14 +32,10 @@
 ## 🧠 About Me
 
 - 🌱 **Currently Exploring**
-  - Latent Space Flow Matching
-  - Generative Control Policies
-  - Collision-Aware Motion Planning
+  - Latent Space Flow Matching - Generative Control Policies - Collision-Aware Motion Planning
 
 - 🤝 **Open to Collaborate**
-  - Drone & Mobile Robot Navigation
-  - Autonomous Robotics Systems
-  - AI-Driven Motion Planning
+  - Drone & Mobile Robot Navigation - Autonomous Robotics Systems - AI-Driven Motion Planning
 
 - ⚡ **Fun Fact**
   - Regular gymrat 💪
