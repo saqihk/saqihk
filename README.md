@@ -58,8 +58,7 @@ Drone & Mobile Robot Navigation
 
 **⚡ Fun Fact About Me**
 <br/><br/>
-Regular Gym Enthusiast 💪
-<br/>Builder of intelligent robotic systems
+Regular Gymrat 💪
 
 </td>
 </tr>
