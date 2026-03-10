@@ -90,12 +90,21 @@ Regular Gymrat 💪
 <td><b>📚 Libraries</b></td>
 <td>
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+<td>
+
+![JAX](https://img.shields.io/badge/JAX-FFB13B?style=flat-square&logo=google&logoColor=white)
+![Equinox](https://img.shields.io/badge/Equinox-JAX%20Neural%20Networks-4B8BBE?style=flat-square)
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+</td>
 
 </td>
 </tr>
@@ -107,7 +116,6 @@ Regular Gymrat 💪
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=flat-square&logoColor=white)
 ![RViz](https://img.shields.io/badge/RViz-22314E?style=flat-square&logoColor=white)
-![PyBullet](https://img.shields.io/badge/PyBullet-306998?style=flat-square&logoColor=white)
 
 </td>
 </tr>
