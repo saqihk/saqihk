@@ -182,12 +182,12 @@ Regular Gymrat 💪
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Snapshot
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saqihk&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=saqihk&layout=compact&theme=tokyonight&hide_border=true" />
-  ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saqihk)
+  <img src="https://img.shields.io/github/followers/saqihk?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/saqihk?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/saqihk/saqihk?style=for-the-badge" />
 </p>
 
 ---
