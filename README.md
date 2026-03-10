@@ -90,8 +90,6 @@ Regular Gymrat 💪
 <td><b>📚 Libraries</b></td>
 <td>
 
-<td>
-
 ![JAX](https://img.shields.io/badge/JAX-FFB13B?style=flat-square&logo=google&logoColor=white)
 ![Equinox](https://img.shields.io/badge/Equinox-JAX%20Neural%20Networks-4B8BBE?style=flat-square)
 
@@ -103,8 +101,6 @@ Regular Gymrat 💪
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-</td>
 
 </td>
 </tr>
