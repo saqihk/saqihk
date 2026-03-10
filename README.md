@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Animated header banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:63d2ff,100:a78bfa&height=200&section=header&text=saqi%20hussain&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Researcher%20%7C%20AI%20%7C%20Robotics%20%7C%20SLAM%20%7C%20Computer%20Vision&descAlignY=58&descSize=16&animation=fadeIn" />
 
-<!-- Typing animation -->
 <a href="https://github.com/saqihk">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=63D2FF&center=true&vCenter=true&width=600&lines=AI+%26+Robotics+Researcher+%F0%9F%A4%96;ROS+%7C+SLAM+%7C+LiDAR+Expert+%F0%9F%93%A1;Computer+Vision+Engineer+%F0%9F%91%81%EF%B8%8F;Indoor+Localization+Specialist+%F0%9F%8F%A0;Based+in+South+Korea+%F0%9F%87%B0%F0%9F%87%B7" alt="Typing SVG" />
 </a>
@@ -11,9 +9,8 @@
 <br/><br/>
 
 <a href="https://saqi-hussain.web.app/"><img src="https://img.shields.io/badge/Portfolio-saqi--hussain.web.app-63d2ff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-<a href="https://linkedin.com/in/saqi-hussain-1455b6181"><img src="https://img.shields.io/badge/LinkedIn-saqi--hussain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/saqi-hussain-1455b6181"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/ai_with_saqi"><img src="https://img.shields.io/badge/Instagram-@ai__with__saqi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://github.com/saqihk"><img src="https://img.shields.io/badge/GitHub-saqihk-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -21,25 +18,13 @@
 
 ## 🧠 About Me
 
-```python
-class SaqiHussain:
-    name       = "Saqi Hussain"
-    handle     = "@saqihk"
-    pronouns   = "he/him"
-    location   = "South Korea 🇰🇷"
-    university = "Pukyong National University"
-    role       = "Researcher & Software Engineer"
+I'm a **Researcher & Software Engineer** at **Pukyong National University, South Korea 🇰🇷**, specializing in the intersection of **AI, Robotics, and Sensing**. I build intelligent systems that help robots understand and navigate the physical world.
 
-    focus = [
-        "Artificial Intelligence",
-        "Robotics & ROS / ROS2",
-        "SLAM & Indoor Localization",
-        "2D/3D LiDAR Processing",
-        "Computer Vision & Deep Learning",
-    ]
-
-    currently = "Building smarter robots 🤖"
-```
+- 🤖 Working with **ROS / ROS2** for robotic middleware and automation
+- 📡 Developing **LiDAR-based perception** systems for real-time object detection
+- 🗺️ Researching **SLAM** and **indoor localization** algorithms
+- 👁️ Applying **computer vision** and **deep learning** to autonomous systems
+- 🌱 Currently pushing boundaries in **sensor fusion** and **edge AI**
 
 ---
 
@@ -80,9 +65,11 @@ class SaqiHussain:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saqihk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050810&title_color=63d2ff&icon_color=a78bfa&text_color=e2eaf4&count_private=true" alt="Saqi's GitHub Stats" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqihk&layout=compact&theme=tokyonight&hide_border=true&bg_color=050810&title_color=63d2ff&text_color=e2eaf4&langs_count=6" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=saqihk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=63d2ff&icon_color=a78bfa&text_color=e2eaf4&count_private=true&rank_icon=github" alt="GitHub Stats" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqihk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=63d2ff&text_color=e2eaf4&langs_count=6" alt="Top Languages" />
 
 </div>
 
@@ -92,14 +79,14 @@ class SaqiHussain:
 
 <div align="center">
 
-**[📦 Object\_detection\_2D-LiDAR](https://github.com/saqihk/Object_detection_2D-LiDAR)**
+### 📦 [Object\_detection\_2D-LiDAR](https://github.com/saqihk/Object_detection_2D-LiDAR)
 
 > 📡 Real-time **2D LiDAR object detection** for robotics & autonomous navigation — built with **Python** & **ROS**.
 
-<img src="https://img.shields.io/github/stars/saqihk/Object_detection_2D-LiDAR?style=social" />
-<img src="https://img.shields.io/github/forks/Object_detection_2D-LiDAR?style=social" />
-<img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Framework-ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
+<img src="https://img.shields.io/github/stars/saqihk/Object_detection_2D-LiDAR?style=for-the-badge&logo=github&color=63d2ff&labelColor=0d1117" />
+<img src="https://img.shields.io/github/last-commit/saqihk/Object_detection_2D-LiDAR?style=for-the-badge&logo=github&color=a78bfa&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Framework-ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
 
 </div>
 
@@ -109,7 +96,7 @@ class SaqiHussain:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saqihk&theme=react-dark&hide_border=true&bg_color=050810&color=63d2ff&line=a78bfa&point=ffffff&area=true&area_color=63d2ff" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saqihk&theme=react-dark&hide_border=true&bg_color=0d1117&color=63d2ff&line=a78bfa&point=ffffff&area=true" alt="Contribution Graph" />
 
 </div>
 
