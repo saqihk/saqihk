@@ -41,23 +41,25 @@
 **🌱 Currently Exploring**
 <br/><br/>
 Latent Space Flow Matching
-<br/>Motion planning CEM- MPC
-<br/>collosion avoidence
+<br/>Generative Control Policies
+<br/>Collision-Aware Motion Planning
 
 </td>
 <td align="center" width="210">
 
 **🤝 Open to Collaborate**
 <br/><br/>
-Motion Planning on drones, mobile robots
-<br/>Cutting-Edge Navigation
+Drone & Mobile Robot Navigation
+<br/>Autonomous Robotics Systems
+<br/>AI-Driven Motion Planning
 
 </td>
 <td align="center" width="210">
 
-**⚡ Fun Fact About me **
-<br/><br/>I am a reguler gymrat
-<br/>
+**⚡ Fun Fact About Me**
+<br/><br/>
+Regular Gym Enthusiast 💪
+<br/>Builder of intelligent robotic systems
 
 </td>
 </tr>
@@ -143,19 +145,18 @@ Motion Planning on drones, mobile robots
 </td>
 </tr>
 </table>
-
 ---
-
 ## 🎯 Research Interests
 
-| Domain | Topics |
+| Area | Focus |
 |:---|:---|
-| 🤖 **Robotics** | ROS / ROS2 · Motion Planning · Autonomous Navigation |
-| 📡 **Sensing** | 2D/3D LiDAR · Sensor Fusion · Pointcloud Processing |
-| 🗺️ **Localization** | SLAM · Indoor Mapping · Particle Filters |
-| 👁️ **Computer Vision** | Object Detection · Semantic Segmentation · Depth Estimation |
-| 🧠 **AI / ML** | Deep Learning · Reinforcement Learning · Edge AI Deployment |
-| 🌱 **Exploring** | Flow Matching · Transfer Learning · Uneven Terrain Navigation |
+| 🤖 **Robotics & Navigation** | Motion Planning · Autonomous Navigation · Control for Mobile Robots |
+| 🧠 **Generative AI for Robotics** | Flow Matching · Latent Space Models · Generative Control Policies |
+| 📡 **Perception & Sensing** | LiDAR · Depth Cameras · Pointcloud Processing |
+| 🗺️ **State Estimation** | SLAM · Localization · Mapping |
+| 👁️ **Robot Vision** | Object Detection · Semantic Segmentation · Depth Estimation |
+| ⚙️ **Robotics Systems** | ROS / ROS2 · Real-Time Systems · Edge AI Deployment |
+| 🌱 **Currently Exploring** | Collision-Aware Planning · Learning-Based Motion Planning · Rough Terrain Navigation |
 
 ---
 
