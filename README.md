@@ -12,7 +12,7 @@
 
 <div align="center">
   
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=C3XkxKIAAAAJ&hl=en))
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=C3XkxKIAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saqi-hussain-1455b6181)
 [![Instagram](https://img.shields.io/badge/@ai__with__saqi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ai_with_saqi)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-saqi--hussain.web.app-00D9FF?style=for-the-badge&labelColor=0d1117)](https://saqi-hussain.web.app/)
